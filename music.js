@@ -18,7 +18,7 @@ var audioFiles = [
         },
         {
         src: "distance.mp3",
-        artist: "chr1ssy (lurkin)",
+        artist: "chr1ssy (null)",
         song: "Distance"
         },
         {
